@@ -1,0 +1,10 @@
+{
+    "python.linting.enabled": true,
+    "python.linting.flake8Enabled": true,
+    "python.linting.lintOnSave": true,
+    "python.linting.flake8Args": [
+        "--ignore=E501",
+    ],
+    "editor.formatOnSave": true,
+    "python.formatting.provider": "black"
+}
